@@ -1,4 +1,8 @@
 ## Profile
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=koki-sys&count_private=true&show_icons=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-sys&layout=compact)](https://github.com/koki-sys)
+
 - 👋 @koki-sysです。
 - 👀 私の興味ある言語（勉強していないものの中で）
   - Golang
@@ -7,9 +11,7 @@
   - TypeScript
   - React(jsのライブラリ)
 
-## 🌟Stars
-[![Stats](https://github-readme-stats.vercel.app/api?username=koki-sys&count_private=true&show_icons=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-sys&layout=compact)](https://github.com/koki-sys)
+
 
 <!---
 koki-sys/koki-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
