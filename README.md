@@ -8,9 +8,8 @@
   - React(jsのライブラリ)
 
 ## 🌟Stars
-[![Stats](https://github-readme-stats.vercel.app/api?username=koki-sys&count_private=true&show_icons=true)](https://github.com/koki-sys)
-
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-sys&layout=compact)](https://github.com/koki-sys)
+[![Stats](https://github-readme-stats.vercel.app/api?username=koki-sys&count_private=true&show_icons=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-sys&layout=compact)](https://github.com/koki-sys)
 
 <!---
 koki-sys/koki-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
