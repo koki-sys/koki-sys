@@ -1,5 +1,6 @@
 ## Profile
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,java,nodejs,react&theme=light)](https://skillicons.dev)
 [![Stats](https://github-readme-stats.vercel.app/api?username=koki-sys&count_private=true&show_icons=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-sys&layout=compact)](https://github.com/koki-sys)
 
