@@ -4,10 +4,10 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=koki-sys&count_private=true&show_icons=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-sys&layout=compact)](https://github.com/koki-sys)
 
-- 👋 @koki-sysです。
-- 👀 私の興味ある言語（勉強していないものの中で）
-[![My Skills](https://skillicons.dev/icons?i=golang,gin&theme=dark)](https://skillicons.dev)<br>
-- 🌱 今勉強している言語（授業外）
+👋 @koki-sysです。<br/>
+👀 私の興味ある言語（勉強していないものの中で）<br/>
+[![My Skills](https://skillicons.dev/icons?i=golang,gin&theme=dark)](https://skillicons.dev)<br/>
+🌱 今勉強している言語（授業外）<br/>
 [![My Skills](https://skillicons.dev/icons?i=typescript,react&theme=dark)](https://skillicons.dev)
 
 
