@@ -6,12 +6,9 @@
 
 - 👋 @koki-sysです。
 - 👀 私の興味ある言語（勉強していないものの中で）
-  - Golang
-  - Python
+[![My Skills](https://skillicons.dev/icons?i=golang,gin&theme=dark)](https://skillicons.dev)<br>
 - 🌱 今勉強している言語（授業外）
-  - TypeScript
-  - React(jsのライブラリ)
-
+[![My Skills](https://skillicons.dev/icons?i=typescript,react&theme=dark)](https://skillicons.dev)
 
 
 <!---
