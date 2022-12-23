@@ -18,4 +18,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 21 December 2022 - To: 22 December 2022
+
+Total Time: 17 mins
+
+YAML   17 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
