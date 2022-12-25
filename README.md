@@ -20,11 +20,16 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 22 December 2022
+From: 21 December 2022 - To: 23 December 2022
 
-Total Time: 17 mins
+Total Time: 1 hr 41 mins
 
-YAML   17 mins         █████████████████████████   100.00 %
+JSON             39 mins         █████████▓░░░░░░░░░░░░░░░   39.14 %
+PHP              32 mins         ████████░░░░░░░░░░░░░░░░░   31.72 %
+YAML             17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+SCSS             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+JavaScript       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+CSS              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
