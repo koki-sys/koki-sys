@@ -20,16 +20,16 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 27 December 2022
+From: 21 December 2022 - To: 28 December 2022
 
-Total Time: 3 hrs 34 mins
+Total Time: 6 hrs 6 mins
 
-Markdown         1 hr 25 mins    ██████████░░░░░░░░░░░░░░░   39.73 %
-JSON             39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-PHP              34 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-YAML             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Blade Template   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-CSS              12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Blade Template   1 hr 39 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
+Markdown         1 hr 25 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
+JavaScript       57 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+JSON             39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+PHP              38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+CSS              21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:waka-->
