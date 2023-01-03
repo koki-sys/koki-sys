@@ -20,16 +20,16 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 31 December 2022
+From: 21 December 2022 - To: 02 January 2023
 
-Total Time: 14 hrs 41 mins
+Total Time: 24 hrs 3 mins
 
-JavaScript       3 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-YAML             2 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-Blade Template   2 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-JSON             1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Markdown         1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-Docker           59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+JavaScript       7 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   30.43 %
+Docker           2 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+YAML             2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+Markdown         2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+JSON             2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Blade Template   2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
 ```
 
 <!--END_SECTION:waka-->
