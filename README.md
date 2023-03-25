@@ -6,7 +6,7 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-sys&layout=compact)](https://github.com/koki-sys)
 
 👋 @koki-sysです。<br/>
-🌱 今勉強している言語（授業外）<br/>
+🌱 今勉強している言語<br/>
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,golang&theme=dark)](https://skillicons.dev)
 
 
