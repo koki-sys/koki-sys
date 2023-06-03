@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 ### Record
 <!--START_SECTION:waka-->
 
-```text
-From: 21 December 2022 - To: 31 May 2023
+```txt
+From: 21 December 2022 - To: 01 June 2023
 
 Total Time: 58 hrs 52 mins
 
