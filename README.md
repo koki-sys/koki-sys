@@ -19,15 +19,15 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2022 - To: 31 July 2023
+From: 21 December 2022 - To: 01 August 2023
 
-Total Time: 73 hrs 16 mins
+Total Time: 75 hrs 27 mins
 
-JavaScript       20 hrs 31 mins  ███████░░░░░░░░░░░░░░░░░░   28.01 %
-Vue.js           12 hrs 20 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
-EJS              8 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-YAML             5 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Markdown         4 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+JavaScript       20 hrs 51 mins  ███████░░░░░░░░░░░░░░░░░░   27.64 %
+Vue.js           14 hrs 11 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
+EJS              8 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+YAML             5 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Markdown         4 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
 ```
 
 <!--END_SECTION:waka-->
