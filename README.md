@@ -1,7 +1,7 @@
 ## Profile
 ### Skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,java,nodejs,react,bootstrap,docker,laravel,git,github,githubactions,materialui&theme=dark)](https://skillicons.dev)<br>
-### Status
+### 勉強記録（1以上が勉強した日）
 <!-- アクティビティグラフ -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koki-sys&hide_border=true&custom_title=Contribution%20Graph)
 
