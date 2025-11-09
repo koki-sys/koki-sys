@@ -2,8 +2,8 @@
 ### Skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,java,nodejs,react,bootstrap,docker,laravel,git,github,githubactions,materialui&theme=dark)](https://skillicons.dev)<br>
 ### Status
-[![Stats](https://github-readme-stats.vercel.app/api?username=koki-sys&count_private=true&show_icons=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-sys&layout=compact)](https://github.com/koki-sys)
+<!-- アクティビティグラフ -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koki-sys&hide_border=true&custom_title=Contribution%20Graph)
 
 👋 @koki-sysです。<br/>
 🌱 今勉強している言語<br/>
